@@ -8,4 +8,8 @@ https://aip.scitation.org/doi/10.1063/1.5052142
 
 ![Trajectory, Diffusion, Drift and Free-energy](https://github.com/ronaldolab/stochastic_diffusion/blob/master/Dvf.png)
 
+<<<<<<< HEAD
 This project is now improved and available at http://www.github.com/ronaldolab/DrDiff.
+=======
+This project was the base for another project available at https://github.com/ronaldolab/DrDiff.
+>>>>>>> e99cb49ca18f26118536666a26cd36aaea474e84
