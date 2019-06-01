@@ -7,3 +7,5 @@ Stochastic diffusion framework determines the free-energy landscape and rate fro
 https://aip.scitation.org/doi/10.1063/1.5052142
 
 ![Trajectory, Diffusion, Drift and Free-energy](https://github.com/ronaldolab/stochastic_diffusion/blob/master/Dvf.png)
+
+This project is now improved and available at http://www.github.com/ronaldolab/DrDiff.
